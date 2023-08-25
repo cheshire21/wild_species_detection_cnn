@@ -1,0 +1,14 @@
+train: ../content/drive/MyDrive/UNSA/data/images/train # train images (relative to 'path') 128 images
+val: ../content/drive/MyDrive/UNSA/data/images/valid # val images (relative to 'path') 128 images
+test: # test images (optional)
+
+# Classes
+names:
+  [
+    Ara_ararauna,
+    Ara_chloropterus,
+    Ara_macao,
+    Opisthocomus_hoazin,
+    Pteronura_brasiliensis,
+    Saimiri_sciureus,
+  ]

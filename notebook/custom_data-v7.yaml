@@ -1,0 +1,17 @@
+train: /content/drive/MyDrive/UNSA/data-1-v7/train
+val: /content/drive/MyDrive/UNSA/data-1-v7/val
+test: /content/drive/MyDrive/UNSA/data-1-v7/test
+
+# number of classes
+nc: 6
+
+# class names
+names:
+  [
+    Ara_ararauna,
+    Ara_chloropterus,
+    Ara_macao,
+    Opisthocomus_hoazin,
+    Pteronura_brasiliensis,
+    Saimiri_sciureus,
+  ]
